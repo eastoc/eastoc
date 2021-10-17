@@ -1,1 +1,1 @@
-- all is Machine Learning！！！
+- This is the codebase of Fangdong Wu. My research interests are computer vison, deep learning and transfer learning.
