@@ -1,1 +1,1 @@
-- This is the codebase of Fangdong Wu. My research interests are computer vison, deep learning, transfer learning, and SLAM.
+- This is the GitHub homepage of Fangdong Wu. My research interests are computer vision, deep learning, transfer learning, and SLAM.
