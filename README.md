@@ -1,1 +1,2 @@
-- This is the GitHub homepage of Fangdong Wu. My research interests are object detection, tracking, SLAM, and AIGC. 
+- This is the GitHub homepage of Fangdong Wu.
+- My research interests are object detection, tracking, SLAM, Diffusion model and LLM Agent. 
