@@ -16,7 +16,7 @@ My goal is to build intelligent agents that see, think, and act in the real worl
 
 ## 🔭 What I'm Working On
 
-- Building Agents for CAD modeling and financial analysis.
+- Building Agentic Robot.
 - Agentic RL.
 
 ---
