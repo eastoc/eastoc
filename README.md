@@ -1,6 +1,6 @@
 # 👋 Hi, I’m East Wu
 
-I’m **East Wu**, currently focusing on **Multimodal Large Language Models (LLMs)** and **Agent**.  
+I’m **East Wu**, currently focusing on **Multimodal Large Models** and **Agent**.  
 Previously, I spent years working in **Robotic Vision** and **AIGC (Image/Video Generation)**.  
 My goal is to build intelligent agents that see, think, and act in the real world.
 
