@@ -9,7 +9,6 @@ My goal is to build intelligent agents that see, think, and act in the real worl
 ## 🚀 Research Interests
 
 - 🧠 **LLMs / AI Agent** 
-- 🔍 **Computer Vision**
 - 🤖 **Robotics / Embodied AI**
 
 ---
